@@ -76,6 +76,10 @@ li.dropdown {
    z-index: 2;
 
 }
+.eee{
+  display: flex;
+  display: 40%;
+}
 /* .slider.slick-next:before{
   background-size: 10px 20px;
   display: inline-block;
